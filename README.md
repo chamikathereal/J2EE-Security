@@ -137,5 +137,3 @@ Chamika Gayashan
 Undergraduate Software Engineer | Sri Lanka  
 Linkedin: @chamikathereal  
 Current date: Sunday, June 22, 2025, 1:30 AM +0530
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/71310210/c06fed9e-1a50-49f5-b825-3d3042eb353f/J2EE-Security.txt
